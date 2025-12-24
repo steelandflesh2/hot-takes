@@ -15,8 +15,7 @@ Basically, a player can use the `>play` command to get a random hot pick out of 
 # Try it
 
 Use this invite to install the bot on your server:- https://discord.com/oauth2/authorize?client_id=1453392686676443188&permissions=67648&integration_type=0&scope=bot
-
-**Make sure**, it has the appropriate permissions set up such as send message, read messages and add reactions.
+**Make sure**, it has the appropriate permissions set up such as __send message, read messages and add reactions.__
 
 ---
 
@@ -30,4 +29,10 @@ Use this invite to install the bot on your server:- https://discord.com/oauth2/a
 
 # Improvements and future goals
 
-Right now, this is just a toy project, to make this a real project more topics should be added and probably an actual database should be integrated instead of loading text files.
+Right now, this is just a toy project, to make this a real project more topics should be added and an actual database should be integrated instead of loading text files.
+An automated tool to scrape topics from the internet is a consideration for now.
+Any suggestions or contributions are welcome and appreciate.
+
+---
+
+# ⭐ Feel free to star this repo
