@@ -1,4 +1,6 @@
-# 🔥 Hot Takes
+# Hot Takes
+
+![Avatar](avatar.webp)
 
 **Hot Takes** is a fun and engaging Discord bot that delivers bold, lighthearted, and mildly controversial opinions for the community to react to. From “Pineapple is the best pizza topping 🍍” to quirky random takes, it’s perfect for sparking fun debates!  
 
