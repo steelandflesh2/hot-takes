@@ -1,7 +1,10 @@
-# Hot Takes
-![Avatar](avatar.webp)
-Hot Takes is a fun and engaging bot with various topics deemed as bold or mildly controversial (nothing political or NSFW, eg. Pineapple is the best topping on a Pizza) to help the community to engage on various topics.
-Basically, a player can use the `>play` command to get a random hot pick out of a variety of topics and the community could react with "✅" if the pick is approved or "❌" if not.
+# 🔥 Hot Takes
+
+**Hot Takes** is a fun and engaging Discord bot that delivers bold, lighthearted, and mildly controversial opinions for the community to react to. From “Pineapple is the best pizza topping 🍍” to quirky random takes, it’s perfect for sparking fun debates!  
+
+Players can use the `>play` command to get a random hot take. The community can then react with:  
+- ✅ if they agree  
+- ❌ if they disagree  
 
 ---
 
@@ -11,23 +14,30 @@ Basically, a player can use the `>play` command to get a random hot pick out of 
 ---
 
 # Try it
-Use this invite to install the bot on your server:- https://discord.com/oauth2/authorize?client_id=1453392686676443188&permissions=67648&integration_type=0&scope=bot
-**Make sure**, it has the appropriate permissions set up such as __send message, read messages and add reactions.__
+Invite the bot to your server using this link: https://discord.com/oauth2/authorize?client_id=1453392686676443188&permissions=67648&integration_type=0&scope=bot
+
+**Note:** Make sure the bot has the following permissions:  
+- Send Messages  
+- Read Messages  
+- Add Reactions  
 
 ---
 
 # Technologies used
-- Python
-- Discord.py
-- Few other libraries
+- **Python**  
+- **discord.py**  
+- Various supporting libraries  
 
 ---
 
 # Improvements and future goals
-Right now, this is just a toy project, to make this a real project more topics should be added and an actual database should be integrated instead of loading text files.
-An automated tool to scrape topics from the internet is a consideration for now.
-Any suggestions or contributions are welcome and appreciate.
+- Add more topics for variety  
+- Integrate a proper database instead of using text files  
+- Consider automating topic scraping from the internet  
+
+Contributions and suggestions are **highly welcome**!  
 
 ---
 
 # ⭐ Feel free to star this repo
+If you enjoy the bot, don’t forget to **star this repository**!  
