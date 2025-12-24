@@ -35,7 +35,9 @@ Invite the bot to your server using this link: https://discord.com/oauth2/author
 # Improvements and future goals
 - Add more topics for variety  
 - Integrate a proper database instead of using text files  
-- Consider automating topic scraping from the internet  
+- Consider automating topic scraping from the internet
+- Modularized code
+- Make the bot robust and scalable
 
 Contributions and suggestions are **highly welcome**!  
 
